@@ -9,9 +9,7 @@
 
 Currently pursuing my Master's in Computer Applications at Chandigarh University (Expected 2025). Passionate about building scalable web applications and solving complex problems with clean, efficient code.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitjha20&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+
 
 ## 🚀 Tech Stack
 
@@ -192,15 +190,6 @@ Currently pursuing my Master's in Computer Applications at Chandigarh University
   </table>
 </div>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjha20&theme=radical" alt="GitHub Streak" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjha20&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
