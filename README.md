@@ -10,7 +10,7 @@
 Currently pursuing my Master's in Computer Applications at Chandigarh University (Expected 2025). Passionate about building scalable web applications and solving complex problems with clean, efficient code.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitjha20&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 ## 🚀 Tech Stack
@@ -38,7 +38,7 @@ Currently pursuing my Master's in Computer Applications at Chandigarh University
     <td width="50%">
       <h3 align="center">Video Learning Management System</h3>
       <p align="center">
-        <a href="https://github.com/your-github-username/video-learning-platform" target="_blank">
+        <a href="https://github.com/rohitjha20/video-learning-platform" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=Video+Learning+Platform" width="100%" alt="Video Learning Platform"/>
         </a>
         <p align="center">
@@ -51,10 +51,10 @@ Currently pursuing my Master's in Computer Applications at Chandigarh University
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
         </p>
         <p align="center">
-          <a href="https://github.com/your-github-username/video-learning-platform" target="_blank">
+          <a href="https://github.com/rohitjha20/video-learning-platform" target="_blank">
             <img src="https://img.shields.io/badge/View_Code-242938?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://your-demo-link.com" target="_blank">
+          <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
           </a>
         </p>
@@ -68,7 +68,7 @@ Currently pursuing my Master's in Computer Applications at Chandigarh University
     <td width="50%">
       <h3 align="center">Asteroid Blaster</h3>
       <p align="center">
-        <a href="https://github.com/your-github-username/asteroid-blaster" target="_blank">
+        <a href="https://github.com/rohitjha20/asteroid-blaster" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=Asteroid+Blaster+Game" width="100%" alt="Asteroid Blaster"/>
         </a>
         <p align="center">
@@ -81,10 +81,10 @@ Currently pursuing my Master's in Computer Applications at Chandigarh University
           <img src="https://img.shields.io/badge/Canvas_API-008080?style=for-the-badge&logo=html5&logoColor=white"/>
         </p>
         <p align="center">
-          <a href="https://github.com/your-github-username/asteroid-blaster" target="_blank">
+          <a href="https://github.com/rohitjha20/asteroid-blaster" target="_blank">
             <img src="https://img.shields.io/badge/View_Code-242938?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://your-demo-link.com" target="_blank">
+          <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Play_Game-33FF99?style=for-the-badge&logo=webgl&logoColor=white"/>
           </a>
         </p>
@@ -195,15 +195,15 @@ Currently pursuing my Master's in Computer Applications at Chandigarh University
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjha20&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjha20&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rohitjha20&color=blueviolet" alt="Profile Views" />
 </p>
